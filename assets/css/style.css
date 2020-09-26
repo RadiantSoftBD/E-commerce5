@@ -22,3 +22,10 @@ main{
     transition: .5s;
     margin-left: 5%;
 }
+a, button {
+    color: #9b6a6a;
+    outline: medium none;
+}
+.logo1 {
+    width: 125px;
+}
